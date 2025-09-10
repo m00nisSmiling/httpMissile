@@ -2,7 +2,6 @@
 from tkinter import *
 import requests
 from threading import Thread
-from termcolor import colored
 import sys
 from bs4 import BeautifulSoup
 
