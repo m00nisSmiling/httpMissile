@@ -6,4 +6,4 @@ This weapon is to lunch large amount of HTTP/HTTPS requests to a specific endpoi
 #### $ cd httpMissile
 #### $ python requirement.py
 #### $ chmod +x lunch.py
-#### $ ./lunch.py -u [url_or_endpoint]
+#### $ ./lunch.py -u https://www.example.com
