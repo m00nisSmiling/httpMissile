@@ -9,7 +9,7 @@ root = Tk()
 r1 = Frame(root,bg='black')
 r1.pack(padx=25,side=LEFT)
 root.configure(bg='black',cursor="spider")
-root.title("<<Racer>>")
+root.title("HTTP Missile")
 
 root.geometry("600x700")
 w = StringVar(root)
