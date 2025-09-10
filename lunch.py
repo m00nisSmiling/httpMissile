@@ -11,7 +11,7 @@ r1.pack(padx=25,side=LEFT)
 root.configure(bg='black',cursor="spider")
 root.title("HTTP Missile")
 
-root.geometry("600x700")
+root.geometry("1900x1000")
 w = StringVar(root)
 
 r0 = Frame(r1,bg='black')
