@@ -1,19 +1,24 @@
 # httpMissile
-This program is to lunch large amount of HTTP/HTTPS requests to a specific endpoint.
+- This program is to lunch large amount of HTTP/HTTPS requests to a specific endpoint.
 
 ## Installation & Usage
+- Clone my repo
 ```
 git clone https://github.com/m00nisSmiling/httpMissile.git
 ```
+- Change directory to cloned dir
 ```
 cd httpMissile
 ```
+- Install required package
 ```
 python requirement.py
 ```
+- Change permission to executable 
 ```
 chmod +x lunch.py
 ```
+- Launch the tool 
 ```
 ./lunch.py -u https://www.example.com
 ```
