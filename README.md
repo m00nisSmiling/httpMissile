@@ -1,4 +1,4 @@
-<div align="center">httpMissile</div>
+<div align="center"><h1>httpMissile</h1></div>
 
 - This program is to lunch large amount of HTTP/HTTPS requests to a specific endpoint.
 
